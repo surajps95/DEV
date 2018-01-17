@@ -1,1 +1,1 @@
-grant select on schema.table_name to shema1
+grant select on schema.table_name to shema3
